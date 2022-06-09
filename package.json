@@ -1,0 +1,29 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html -d ./dist --no-minify"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "parcel": "^2.6.0",
+    "parcel-bundler": "^1.3.1",
+    "sass": "^1.52.1"
+  },
+  "dependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "fraction": "^0.2.0",
+    "fraction.js": "^4.2.0",
+    "fractional": "^1.0.0",
+    "fractional.js": "^1.0.0"
+  }
+}
