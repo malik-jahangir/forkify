@@ -22,7 +22,7 @@
   "dependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "fraction": "^0.2.0",
-    "fraction.js": "^4.2.0",
+    "fraction.js": "^4.2.1",
     "fractional": "^1.0.0",
     "fractional.js": "^1.0.0"
   }
